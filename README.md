@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Neha Tomar</h1>
-<h3 align="center">A passionate DevOps practitioner, I focus on seamless project deployment and continuous integration to streamline development processes.</h3>
+<h3 align="center">A passionate Generative AI Engineer eager to leverage a profound background in AI, specializing in vector databases, LLM frameworks and Cloud Deployments.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnehatomar&label=Profile%20views&color=0e75b6&style=flat" alt="iamnehatomar" /> </p>
