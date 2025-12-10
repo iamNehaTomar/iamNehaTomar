@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamNehaTomar](https://github.com/iamNehaTomar)
 
-- 💬 Ask me about **DevOps, Cloud**
+- 💬 Ask me about **Generative AI, NLP, Cloud**
 
 - 📫 How to reach me **nehatomargbu@gmail.com**
 
