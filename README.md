@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Generative AI, NLP, Cloud**
 
-- 📫 How to reach me **nehatomargbu@gmail.com**
+- 📫 How to reach me **nehaneha36527@gmail.com**
 
 - ⚡ Fun fact **Sometimes I'm a night owl & sometimes an early bird!**
 
